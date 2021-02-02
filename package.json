@@ -1,0 +1,22 @@
+{
+  "name": "discord-buttons-rpc",
+  "version": "1.0.0",
+  "description": "Have up to 2 buttons on your Discord Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HypnoticSiege/discord-buttons-rpc.git"
+  },
+  "author": "HypnoticSiege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HypnoticSiege/discord-buttons-rpc/issues"
+  },
+  "homepage": "https://github.com/HypnoticSiege/discord-buttons-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
