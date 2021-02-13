@@ -1,6 +1,6 @@
 # Discord Buttons Rich Presence
 Howdy, looks like you want to be able to have BUTTONS on your Discord Rich Presance.
-Great! YOu've found the place right here.
+Great! You've found the place right here.
 
 # Instalation:
 1. Download the folder :D
