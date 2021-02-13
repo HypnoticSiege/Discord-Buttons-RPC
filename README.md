@@ -4,7 +4,7 @@ Great! YOu've found the place right here.
 Instalation:
 1. Download the folder :D
 2. Open it somewhere where you'd like and remember. (I suggest the Desktop)
-3. Navigate to the foler in your command prompt and do the next commands:
+3. Navigate to the foler in your command prompt and do the next commands:  
 ``npm init``  
 ``npm i discord-rpc``  
 ``node index.js``  
