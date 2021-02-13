@@ -1,7 +1,8 @@
+#Discord Buttons Rich Presence
 Howdy, looks like you want to be able to have BUTTONS on your Discord Rich Presance.
 Great! YOu've found the place right here.
 
-Instalation:
+#Instalation:
 1. Download the folder :D
 2. Open it somewhere where you'd like and remember. (I suggest the Desktop)
 3. Navigate to the foler in your command prompt and do the next commands:  
@@ -11,7 +12,7 @@ Instalation:
 
 Now you might wonder why my logo and buttons show up. That's where the Config.JSON file comes up.
 
-Configuring the CONFIG.JSON File
+##Configuring the CONFIG.JSON File
 
 Open the config.json file and edit to your needs. Here is what each one means:  
 
