@@ -13,7 +13,7 @@ Now you might wonder why my logo and buttons show up. That's where the Config.JS
 
 Configuring the CONFIG.JSON File
 
-Open the config.json file and edit to your needs. Here is what each one means:
+Open the config.json file and edit to your needs. Here is what each one means:  
 appid = Is the application ID, make one here https://discord.com/developers/applications
 
 pic = Is the picture you would like to show. Update this is the Rich Presance portion on the Application you just made.
