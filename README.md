@@ -15,7 +15,7 @@ Configuring the CONFIG.JSON File
 
 Open the config.json file and edit to your needs. Here is what each one means:  
 
-appid = Is the application ID, make one here https://discord.com/developers/applications
+```appid = Is the application ID, make one here https://discord.com/developers/applications
 
 pic = Is the picture you would like to show. Update this is the Rich Presance portion on the Application you just made.
 
@@ -28,7 +28,7 @@ button1link = The link Button1 will redirect to when clicked
 
 button2text = The text that will go in the Second Button
 button2link = The link Button2 will redirect to when clicked
-
+```
 If you would like to know what it looks like first check out this picture:
 http://prntscr.com/y1mdhz
 
