@@ -5,7 +5,7 @@ Great! You've found it :D
 # Instalation:
 1. Download the folder :D
 2. Open it somewhere where you'd like and remember. (I suggest the Desktop)
-3. Navigate to the foler in your command prompt and do the next commands:
+3. Navigate to the foler in your command prompt and do the next commands:       
 ``npm i``  
 ``node index.js``  
 
