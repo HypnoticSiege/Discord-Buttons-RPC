@@ -5,9 +5,8 @@ Great! You've found it :D
 # Instalation:
 1. Download the folder :D
 2. Open it somewhere where you'd like and remember. (I suggest the Desktop)
-3. Navigate to the foler in your command prompt and do the next commands:  
-``npm init``  
-``npm i discord-rpc``  
+3. Navigate to the foler in your command prompt and do the next commands:
+``npm i``  
 ``node index.js``  
 
 Now you might wonder why my logo and buttons show up. That's where the Config.JSON file comes up.
